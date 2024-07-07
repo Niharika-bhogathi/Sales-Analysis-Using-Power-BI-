@@ -1,4 +1,4 @@
-# Sales Analysis Using Power BI
+# Sales Insights Dashboard Using Power BI
 This project features a basic sales analysis dashboard created using Power BI. The dashboard provides a straightforward overview of key sales metrics, making it easy to visualize and understand sales performance.
 
 Key Features of the Dashboard:
